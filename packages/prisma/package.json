@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "prisma": "5.12.1",
-    "@prisma/client": "5.12.1"
+    "@prisma/client": "5.12.1",
+    "dotenv-cli": "7.4.1"
   },
   "devDependencies": {
     "@typebot.io/tsconfig": "workspace:*",
